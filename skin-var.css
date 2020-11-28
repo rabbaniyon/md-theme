@@ -1,0 +1,18 @@
+/* HTML + MARKDOWN SKIN */
+:root {
+    --bg-color: #fbfbfb; /* change background */
+    --text-color: #333333; /* change text color */
+    --link-color: #16a085; /* change color of hyperlinks */
+
+    --font-heading: "Noto Naskh Arabic";
+    --font-body: "Noto Naskh Arabic", system-ui, sans-serif;
+    --font-mono: "UthmanHafs", "Noto Naskh Arabic";
+    
+    --primary-color: #16a085; /* primary color */
+    --accent-color: #d0d0d0; /* background accent color */
+    --primary-btn-border-color: #be2f34; /* primary color for buttons */
+    --primary-btn-text-color: #000; /* primary text color for buttons */
+    
+    --search-select-text-color: var(--text-color); /* Text color for selected searched text */
+    --search-select-bg-color: #db4d5270; /* Background color for selected searched text */
+}
